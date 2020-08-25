@@ -1,8 +1,9 @@
 Packages required for project 1:
     -numpy
     -pandas
-    -seaborn
+    -seaborn: conda install -c anaconda seaborn
     -matplotlib
     -tensorflow
     -pytorch
+    -sklearn : conda install -c anaconda scikit-learn
     
